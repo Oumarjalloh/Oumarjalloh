@@ -3,7 +3,6 @@
 
 - 👯 Je collabore actuellement sur **RyomaQ / spookydmb**
 
-< h3 align="left">Connectez-vous :</h3>
 <p align="left">
 </p>
 
