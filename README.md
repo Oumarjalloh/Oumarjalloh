@@ -3,7 +3,6 @@
 
 - 👯 Je collabore actuellement sur **RyomaQ / spookydmb**
 
-< h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://discord.gg/Oumar#4757" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Oumar#4757" height=" 30" width="40" /></a>
 </p>
