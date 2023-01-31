@@ -1,7 +1,8 @@
 <h1 align="center">Salut 👋, je suis Oumar</h1>
 <h3 align="center">Un développeur frontend passionné</h3>
 
-- 👯 Je collabore actuellement sur **RyomaQ / spookydmb**
+- 👯 Je collabore actuellement sur **Chat92 / mobilité
+- **
 
 <p align="left">
 </p>
