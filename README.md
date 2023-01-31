@@ -1,8 +1,7 @@
 <h1 align="center">Salut 👋, je suis Oumar</h1>
 <h3 align="center">Un développeur frontend passionné</h3>
 
-- 👯 Je collabore actuellement sur **Chat92 / mobilité
-- **
+- 👯 Je collabore actuellement sur **Chat92/ projet_mobilité**
 
 <p align="left">
 </p>
